@@ -1,0 +1,11 @@
+c:\users\pritom\documents\visual studio 2015\Projects\LogInProject\LogInProject\bin\Debug\LogInProject.exe.config
+C:\Users\PRITOM\Documents\Visual Studio 2015\Projects\LogInProject\LogInProject\obj\Debug\LogInProject.csprojResolveAssemblyReference.cache
+C:\Users\PRITOM\Documents\Visual Studio 2015\Projects\LogInProject\LogInProject\obj\Debug\LogInProject.Main.resources
+C:\Users\PRITOM\Documents\Visual Studio 2015\Projects\LogInProject\LogInProject\obj\Debug\LogInProject.Properties.Resources.resources
+C:\Users\PRITOM\Documents\Visual Studio 2015\Projects\LogInProject\LogInProject\obj\Debug\LogInProject.csproj.GenerateResource.Cache
+C:\Users\PRITOM\Documents\Visual Studio 2015\Projects\LogInProject\LogInProject\bin\Debug\LogInProject.exe
+C:\Users\PRITOM\Documents\Visual Studio 2015\Projects\LogInProject\LogInProject\bin\Debug\LogInProject.pdb
+C:\Users\PRITOM\Documents\Visual Studio 2015\Projects\LogInProject\LogInProject\obj\Debug\LogInProject.exe
+C:\Users\PRITOM\Documents\Visual Studio 2015\Projects\LogInProject\LogInProject\obj\Debug\LogInProject.pdb
+C:\Users\PRITOM\Documents\Visual Studio 2015\Projects\LogInProject\LogInProject\obj\Debug\LogInProject.LoginWindow.resources
+C:\Users\PRITOM\Documents\Visual Studio 2015\Projects\LogInProject\LogInProject\obj\Debug\LogInProject.AddAdminUI.resources
